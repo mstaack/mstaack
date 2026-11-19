@@ -2,11 +2,8 @@
 
 I like building things that make sound, move electrons, or both.
 
-With AI as a coding partner my code got a lot better, so I write more and more of it in **Rust**:
-command-line tools, little desktop helpers, and lately audio and
-embedded code where every millisecond and every byte counts. I'm happiest somewhere between the
-**Linux audio stack**, a microcontroller on the desk and a multimeter in reach, and I still build
-for the **web** too.
+AI assistants have widened what a single developer can build, so I write more and more **Rust**:
+CLIs, audio and embedded code. I still build for the **web** too.
 
 When I'm not coding I'm making **house music**, which is probably why so much of my code ends up
 being about audio.
