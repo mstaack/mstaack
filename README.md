@@ -20,6 +20,10 @@ being about audio.
 - 🎧 **House music**: [soundcloud.com/max-matteo](https://soundcloud.com/max-matteo)
 
 ### Recent projects
+- [**blackbox-rs**](https://github.com/mstaack/blackbox-rs): open Rust board support for the 1010music
+  Blackbox sampler (STM32H743). One call brings up the display, touchscreen, buttons, encoders, LEDs
+  and audio codec, so you can write your own firmware for it. Open software for the win: own your
+  hardware! :)
 - [**kingst-la1010-control**](https://github.com/mstaack/kingst-la1010-control): use a Kingst LA1010
   USB logic analyzer from the terminal instead of the vendor GUI. Clip it onto a board and it measures
   clock frequencies and duty cycles, records captures you can open in PulseView, and decodes UART, I²C,
