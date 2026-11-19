@@ -2,8 +2,8 @@
 
 I like building things that make sound, move electrons, or both.
 
-Guided AI coding keeps raising the quality of the code I can produce, so I do more and more in
-**Rust**: command-line tools, little desktop helpers, and lately audio and
+With AI as a coding partner my code got a lot better, so I write more and more of it in **Rust**:
+command-line tools, little desktop helpers, and lately audio and
 embedded code where every millisecond and every byte counts. I'm happiest somewhere between the
 **Linux audio stack**, a microcontroller on the desk and a multimeter in reach, and I still build
 for the **web** too.
@@ -13,8 +13,7 @@ being about audio.
 
 ### What I'm into
 - 🦀 **Rust**: CLIs, libraries, audio and embedded
-- 🔊 **Linux audio**: low-latency pipelines, ALSA/PipeWire, getting sound out of small boards, and
-  wiring up I²S/TDM audio chips (codecs, DACs, ADCs)
+- 🔊 **Linux audio**: low-latency pipelines, getting sound out of small boards, I²S/TDM audio chips
 - 🔌 **Electronics & embedded**: STM32 and Atmel microcontrollers, bootloaders, talking to hardware
   over USB
 - 🐧 **Embedded Linux**: building minimal systems from scratch with Buildroot
