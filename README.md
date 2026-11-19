@@ -13,8 +13,13 @@ being about audio.
 
 ### What I'm into
 - 🦀 **Rust**: CLIs, libraries, audio and embedded
-- 🔊 **Linux audio**: low-latency pipelines, ALSA/PipeWire, getting sound out of small boards
-- 🔌 **Electronics & embedded**: microcontrollers, bootloaders, talking to hardware over USB
+- 🔊 **Linux audio**: low-latency pipelines, ALSA/PipeWire, getting sound out of small boards, and
+  wiring up I²S/TDM audio chips (codecs, DACs, ADCs)
+- 🔌 **Electronics & embedded**: STM32 and Atmel microcontrollers, bootloaders, talking to hardware
+  over USB
+- 🐧 **Embedded Linux**: building minimal systems from scratch with Buildroot
+- 🔒 **Security**: an eye for code injection and for treating every outside input as possibly
+  malicious data
 - 🌐 **Web**: backends, tooling, the occasional frontend
 - 🎧 **House music**: [soundcloud.com/max-matteo](https://soundcloud.com/max-matteo)
 
